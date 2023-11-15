@@ -26,9 +26,9 @@ I can help you get your exam results, latest KTU notifications and more!
 
 Use the inline query feature to live search for notifications. 
 
-Simply type @ktu_results_bot followed by a keyword you want to search for.
+Simply type @notesktubot followed by a keyword you want to search for.
 
-eg: <code>@ktu_results_bot exam</code>
+eg: <code>@notesktubot exam</code>
 
  `;
 
