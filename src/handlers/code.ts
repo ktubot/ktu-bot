@@ -2,11 +2,11 @@ import { CustomContext } from "../types/customContext.type";
 
 async function code(ctx: CustomContext) {
   const replyMsg = `
-This bot is fully open source! 🌐
+This bot is updated by KTUNOTES.IN 🌐
 
-Check out the code in the <a href="https://github.com/devadathanmb/ktu-bot.git">GitHub repo</a>.
+Visit our website  <a href="https://www.ktunotes.in">Ktunotes.in</a>.
 
-Feel free to contribute to the project, or report any issues you encounter.
+Download KTU Study materials,Question Papers etc
 `;
   await ctx.replyWithHTML(replyMsg);
 }
