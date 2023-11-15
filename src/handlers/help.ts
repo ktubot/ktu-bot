@@ -25,12 +25,12 @@ async function help(ctx: CustomContext) {
 
 Use the inline query feature to live search for notifications. 
 
-Simply type @ktu_results_bot followed by a keyword you want to search for.
+Simply type @notesktubot followed by a keyword you want to search for.
 
-eg: <code>@ktu_results_bot exam</code>
+eg: <code>@notesktubot</code>
 
 
-If you encounter any issues, have feature suggestions, or want to contribute to the project, please visit the <a href="https://github.com/devadathanmb/ktu-results-bot.git">Github repo</a>.
+If you encounter any issues, please visit the <a href="https://instagram.com/ktunotes.in">Instagram</a>.
 
 Thanks for using this bot!
 `;
