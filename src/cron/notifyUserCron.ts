@@ -70,6 +70,7 @@ async function notifyUserCron(db: Firestore, bot: Telegraf<CustomContext>) {
 
 <b>Message:</b> ${announcement.message}
 
+Join KTU NOTES Group @notesktu
 `;
 
             // Get the data to fetch the attachments
